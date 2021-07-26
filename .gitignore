@@ -1,0 +1,5 @@
+# 项目排除路径
+/design-pattern/target/
+/jdk/target/
+/spring/target/
+/target/
